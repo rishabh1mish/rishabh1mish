@@ -1,24 +1,41 @@
-# Hi there, I'm Rishabh Mishra👋
+# 👋 Hi there, I'm **Rishabh Mishra**
 
-### A Data driven tech guy from Delhi.
-
-* 🔭 I’m currently working on github right now.
-* 🌱 I’m currently learning Data analytics.
-* 👯 I’m looking to collaborate on Data Analytics project.
-* 💬 Ask me about anything related to HR and Data analytics
-* 📫 How to reach me: varunrishabh.mishra@gmail.com
-* ⚡ Fun fact: Love to work on data and analysing with various visualisation tools.
+A data-driven tech enthusiast from **Delhi**, passionate about transforming raw information into meaningful insights.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🔭 Currently Working On  
+Exploring and building projects on **GitHub**, especially around data analysis and automation.
 
-Here are a few technologies I've been working with recently:
+### 🌱 Currently Learning  
+Advancing my skills in **Data Analytics**, including Python, SQL, and modern visualization tools.
 
-* **Backend:** Python,Pandas,Matplot,pycharm
-* **Database:** MongoDB, SQL
-* **Tools:** Git, Excel, Power BI
+### 🤝 Looking to Collaborate On  
+Data Analytics projects where I can contribute to data cleaning, analysis, visualization, and insights generation.
+
+### 💬 Ask Me About  
+HR Operations • HR Analytics • Data Cleaning • Data Visualization • Python for Data Analysis
+
+### 📫 Reach Me At  
+**varunrishabh.mishra@gmail.com**
+
+### ⚡ Fun Fact  
+I love playing with data and turning spreadsheets into stories through powerful visualizations.
 
 ---
 
-### 🔗 Connect with me: https://www.linkedin.com/in/rishabh-mishra-173165162/
+## 🛠️ Tech Stack
+
+**Backend / Programming:**  
+- Python • Pandas • Matplotlib • PyCharm  
+
+**Database:**  
+- MongoDB • SQL  
+
+**Tools:**  
+- Git • Excel • Power BI  
+
+---
+
+## 🔗 Connect With Me  
+[LinkedIn Profile](https://www.linkedin.com/in/rishabh-mishra-173165162/)
