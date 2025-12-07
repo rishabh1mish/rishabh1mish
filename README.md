@@ -1,6 +1,6 @@
 # Hi there, I'm Rishabh Mishra👋
 
-### A Working professional HR from Delhi.
+### A Working professional HR and Data driven tech guy from Delhi.
 
 * 🔭 I’m currently working on github right now.
 * 🌱 I’m currently learning Data analytics.
