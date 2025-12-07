@@ -15,7 +15,7 @@
 
 Here are a few technologies I've been working with recently:
 
-* **Python:** Pandas, Matplot, pycharm
+* **Backend:** Python,Pandas,Matplot,pycharm
 * **Database:** MongoDB, SQL
 * **Tools:** Git, Excel, Power BI
 
